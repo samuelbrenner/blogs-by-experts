@@ -24,6 +24,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 ## Economics
 
  - Paul Romer: [Economic growth](https://paulromer.net/economic-growth-2/)
+ - Tyler Cowen: [Apple Should Buy a University](http://marginalrevolution.com/marginalrevolution/2015/10/apple-should-buy-a-university.html)
 
 ## Mathematics
 
